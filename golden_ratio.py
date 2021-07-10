@@ -21,3 +21,4 @@ else:
     higher = total / GOLDEN_RATIO
     lower = (GOLDEN_RATIO * higher) - higher
     print(f"\nYour values are \nHigher: {higher}\nLower:{lower}\n")
+
